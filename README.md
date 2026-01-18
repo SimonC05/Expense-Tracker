@@ -20,7 +20,7 @@ Track your expenses, filter by category, date, or prices, view totals, and reset
 - Python 3.7+
 - Python package: 'mysql-connector-python'
 - MySQL Server installed and running
-- Ensure to update MySQL credentials at top of the file, changing "your_password" with your MySQL password
+- Ensure to update MySQL credentials at top of file, changing "your_password" with your MySQL password
 
 Install the package via pip:
 
